@@ -1,3 +1,9 @@
 {
-    "MODULE.hello": "hello"
+    "COMBAT.Sounds.8Bit": "8 Bit",
+    "COMBAT.Sounds.JJBA": "A Jojo reference!?",
+    "COMBAT.Sounds.Tech": "Techno",
+    "COMBAT.Sounds.ai": "F.I.S.H. 10-O1",
+    "COMBAT.Sounds.deadgod": "Dead God",
+    "COMBAT.Sounds.doom": "Doom",
+    "COMBAT.Sounds.techai": "Sci-fi AI"
 }
